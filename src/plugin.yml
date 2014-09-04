@@ -1,0 +1,10 @@
+name: RedChat
+main: RedChat.RedChat
+version: 1.0
+commands:
+   s:
+      description: Talk in staff chat.
+      usage: /s [msg]
+   rank:
+      description: Send a private message.
+      usage: /rank [player]
